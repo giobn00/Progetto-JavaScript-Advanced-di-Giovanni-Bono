@@ -40,6 +40,15 @@ body{
     font-size: 16px; 
 }
 
+#resultContainer{
+    display: grid;
+    grid-template-columns: repeat(1, 50vh);
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+    width: 90%;
+}
+
 .container{
     display: grid;
     justify-content: center;
@@ -84,15 +93,6 @@ body{
 
 .BookInfo-btn:hover{
     background-color: #ccc;
-}
-
-#resultContainer{
-    display: grid;
-    grid-template-columns: repeat(2, 50vh);
-    justify-content: center;
-    align-content: center;
-    margin: 0 auto;
-    width: 90%;
 }
 
 
