@@ -27,7 +27,7 @@ function displayResults(works) {
         bookElement.classList.add("BookInfo");
       bookElement.innerHTML =  `<strong>${title}</strong>
                                 <p>Authors: ${authors}</p>
-                                <button onclick="getBookDescription('${work.key}')">View Description</button>`;
+                                <button class="BookInfo-btn" onclick="getBookDescription('${work.key}')">View Description</button>`;
       resultContainer.appendChild(bookElement);
     });
   }
