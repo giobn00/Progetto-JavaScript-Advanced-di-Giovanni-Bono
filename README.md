@@ -4,7 +4,6 @@ Books library
 
 <!-- PROJECT HEAD -->
 <br />
-  <h1 align="center">Progetto-JavaScript-Advance-di-Giovanni-Bono</h1>
 
   <p align="center">
     An app that  allows you to manage a books library.
