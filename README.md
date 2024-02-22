@@ -73,6 +73,18 @@ You can copy this project using the command prompt below
    ```sh
    git clone https://github.com/giobn00/Progetto-JavaScript-Advanced-di-Giovanni-Bono.git
    ```
+2. Add the node modules
+   ```sh
+   npm install -y
+   ```
+3. Install webpack 
+   ```sh
+   npm install --save-dev webpack webpack-cli
+   ```
+4. lunch Webpack to build  your application
+   ```sh
+   npm start
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

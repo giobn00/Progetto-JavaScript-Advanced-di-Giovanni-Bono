@@ -1,0 +1,25 @@
+{
+  "name": "progetto-javascript-advanced-di-giovanni-bono",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Books library  <a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giobn00/Progetto-JavaScript-Advanced-di-Giovanni-Bono.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giobn00/Progetto-JavaScript-Advanced-di-Giovanni-Bono/issues"
+  },
+  "homepage": "https://github.com/giobn00/Progetto-JavaScript-Advanced-di-Giovanni-Bono#readme",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
