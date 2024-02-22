@@ -56,8 +56,12 @@ The app will return  all the book in the selected category and show them with th
 To create this prject I use the following tools
 
 * [![javascript][javascript.com]][javascript-url]
+* ![WebPack][WebPack.com]
 * ![HTML][HTML.com]
 * ![CSS][CSS.com]
+* ![gitignore][gitignore.com]
+* ![NodeJS][NodeJS.org]
+
 
 
 
@@ -97,7 +101,7 @@ Enter the name of the category you want to see in the search bar, then click on 
 
 Giovanni Bono - [@portfolio](https://developer.giovannibono.com/) - me@giovannibono.com
 
-Project Link: [https://count.giovannibono.com/](https://count.giovannibono.com/)
+Project Link: [https://textbook.giovannibono.com/](https://textbook.giovannibono.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,3 +112,6 @@ Project Link: [https://count.giovannibono.com/](https://count.giovannibono.com/)
 [javascript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [HTML.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [CSS.com]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[WebPack.com]: https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white
+[gitignore.com]: https://img.shields.io/badge/gitignore%20io-204ECF?style=for-the-badge&logo=gitignoredotio&logoColor=white
+[NodeJS.org]: https://img.shields.io/badge/nodejs-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white
