@@ -8,7 +8,7 @@ export function getBookDescription(key) {
     let descriptionUrl = `https://openlibrary.org${key}.json`;
 
     fetch(descriptionUrl)
-      .then(response => response.json())
-      .then(data => alert(data.description))
-      .catch(error => console.error('Error fetching description:', error));
+        .then(response => response.json())
+        .then(data => alert(data.description))
+        .catch(error => console.error('Error fetching description:', error));
   }

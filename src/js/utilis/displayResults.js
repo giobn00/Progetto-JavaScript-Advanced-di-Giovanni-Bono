@@ -10,7 +10,7 @@ export function displayResults(works) {
     let resultContainer = document.getElementById("resultContainer");
     resultContainer.innerHTML = "";
 
-    works.forEach(work => {
+      works.forEach(work => {
         let title = work.title;
         let authors = work.authors ? work.authors.map(author => author.name).join(', ') : 'N/A';
 
@@ -24,6 +24,6 @@ export function displayResults(works) {
                                     getBookDescription(work.key);
                                 })
       resultContainer.appendChild(bookElement);
-    });
+      });
   }
 

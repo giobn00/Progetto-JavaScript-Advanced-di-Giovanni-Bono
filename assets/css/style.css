@@ -95,5 +95,16 @@ body{
     background-color: #ccc;
 }
 
+.error{
+    background-color: #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    color: red;
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    font-size: large;
+}
+
 
 
