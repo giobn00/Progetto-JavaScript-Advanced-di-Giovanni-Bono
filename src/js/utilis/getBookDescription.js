@@ -1,3 +1,4 @@
+import { displaydescription } from "./displaydescription";
 /**
  * Retrieves the description of a book using the provided key.
  *
@@ -9,6 +10,6 @@ export function getBookDescription(key) {
 
     fetch(descriptionUrl)
         .then(response => response.json())
-        .then(data => alert(data.description))
+        .then(data => displaydescription(data.description))
         .catch(error => console.error('Error fetching description:', error));
   }
