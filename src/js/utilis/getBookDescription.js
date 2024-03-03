@@ -11,5 +11,5 @@ export function getBookDescription(key) {
     fetch(descriptionUrl)
         .then(response => response.json())
         .then(data => displaydescription(data.description))
-        .catch(error => console.error('Error fetching description:', error));
+        .catch(error => console.error('Error fetching description:', error),alert('No description available for this book'));
   }
